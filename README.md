@@ -14,7 +14,7 @@ Elevate your wine game with our voice assistant sommelier—sip, savor, and disc
 - Visual Studio Code
 - Git (`git`)
 ## Installation
-To install the project on your local system, run the following on your terminal.
+To install the project on your local system, run the following on your vscode terminal.
  - `git clone https://github.com/anshv-py/grape-ai.git`
  - `cd grape-ai`
  - `npm install --force`
