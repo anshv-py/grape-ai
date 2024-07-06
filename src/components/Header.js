@@ -1,5 +1,5 @@
 import React from 'react';
-import 'C:/Users/anshv/OneDrive/Desktop/Ansh Personal/Inspired Singapore/WiKnow/wiknow/src/styles/Header.css';
+import 'src/styles/Header.css';
 
 const Header = () => {
   return (
