@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import TextArea from './TextArea';
-import 'C:/Users/anshv/OneDrive/Desktop/Ansh Personal/Inspired Singapore/WiKnow/wiknow/src/styles/MicrophoneInput.css';
+import 'src/styles/MicrophoneInput.css';
 import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition';
 
 const MicrophoneInput = () => {
