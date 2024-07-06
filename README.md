@@ -17,7 +17,7 @@ Elevate your wine game with our voice assistant sommelier—sip, savor, and disc
 To install the project on your local system, run the following on your terminal.
  - `git clone https://github.com/anshv-py/grape-ai.git`
  - `cd grape-ai`
- - `npm install`
+ - `npm install --force`
  - `$env:NODE_OPTIONS = "--openssl-legacy-provider"`
  - `npm start`
 
