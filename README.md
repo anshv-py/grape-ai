@@ -14,6 +14,7 @@ To install the project on your local system, run the following on your terminal.
  - `git clone https://github.com/anshv-py/grape-ai.git`
  - `cd grape-ai`
  - `npm install`
+ - `$env:NODE_OPTIONS = "--openssl-legacy-provider"`
  - `npm start`
 
 With the following steps you can start the application.
