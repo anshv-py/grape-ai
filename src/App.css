@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  background-color: #333;
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: url('C:/Users/anshv/OneDrive/Desktop/Ansh Personal/Inspired Singapore/WiKnow/wiknow/src/wine-bg.jpeg');
+  background-size: cover;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.right-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 10%;
+}
+
+.mic-container {
+  justify-content: center;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

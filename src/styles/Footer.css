@@ -1,0 +1,9 @@
+.footer-container {
+    background-color: black;
+    color: white;
+    width: 96.8%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}

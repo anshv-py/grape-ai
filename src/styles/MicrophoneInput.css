@@ -1,0 +1,47 @@
+.MicrophoneInput {
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+  
+.MicButton {
+    background: transparent;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 3.5rem;
+    margin-left: 29.5rem;
+    margin-top: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.ButtonGroup {
+    display: flex;
+    justify-content: center;
+    gap: 0.2rem;
+    margin-top: 20px;
+    margin-left: 475px;
+    width: fit-content;
+    height: fit-content;
+}
+    
+.ButtonGroup button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+  
+#b2 {
+    background-color: white;
+    color: black;
+    border-radius: 0.5cm;
+}
+
+#b1 {
+    background-color: black;
+    color: white;
+    border-radius: 0.5cm;
+}
