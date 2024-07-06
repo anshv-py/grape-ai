@@ -1,10 +1,11 @@
-
 # Grape AI
 
 Elevate your wine game with our voice assistant sommelier—sip, savor, and discover effortlessly!
 
 
-![Logo](https://i.ibb.co/wwsXXds/Grape-AI-logo.png{:width="200px"})
+<p align="center">
+  <img src="https://i.ibb.co/wwsXXds/Grape-AI-logo.png" width="200">
+</p>
 
 
 ## Requirements
