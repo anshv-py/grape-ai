@@ -5,7 +5,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-image: url('C:/Users/anshv/OneDrive/Desktop/Ansh Personal/Inspired Singapore/WiKnow/wiknow/src/wine-bg.jpeg');
+  background-image: url('src/wine-bg.jpeg');
   background-size: cover;
 }
 
