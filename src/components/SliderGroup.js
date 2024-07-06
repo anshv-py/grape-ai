@@ -1,6 +1,6 @@
 import React from 'react';
 import InputSlider from './Slider';
-import 'C:/Users/anshv/OneDrive/Desktop/Ansh Personal/Inspired Singapore/WiKnow/wiknow/src/styles/SliderGroup.css';
+import 'src/styles/SliderGroup.css';
 
 
 const SliderGroup = (props) => {
