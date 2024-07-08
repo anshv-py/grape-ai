@@ -35,5 +35,5 @@ To install the project on your local system, run the following on your vscode te
 With the following steps you can start the application.
 
 ## Demo
+https://github.com/anshv-py/grape-ai/assets/119095215/6aff21ba-04e8-4403-af2a-1bda948e862a
 
-![Link](https://drive.google.com/file/d/1CAhy1Dk7jZNqgpMMF0NdI8iheCMHdSnE/view?usp=sharing)
