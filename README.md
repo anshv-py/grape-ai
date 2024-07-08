@@ -12,7 +12,16 @@ Elevate your wine game with our voice assistant sommelier—sip, savor, and disc
 - `Node Package Manager (npm)`
 - `React (create-react-app)`
 - Visual Studio Code
-- Google Gemini API key which you can create from this Link: ![Link](https://aistudio.google.com/app/u/1/apikey)
+- Google Gemini API key which you can create from this Link: [Get Your API Key](https://aistudio.google.com/app/u/1/apikey)
+  ## API Key
+
+  #### Get your own API Key from 
+
+
+  | Parameter | Type     | Description                |
+  | :-------- | :------- | :------------------------- |
+  | `GOOGLE_API_KEY` | `string` | **Required**. Your API key |
+  
 - Git (`git`)
 ## Installation
 To install the project on your local system, run the following on your vscode terminal.
