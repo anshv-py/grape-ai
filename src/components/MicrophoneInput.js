@@ -8,7 +8,7 @@ const MicrophoneInput = () => {
   const { transcript, resetTranscript } = useSpeechRecognition();
   const [ isRecording, setIsRecording ] = useState(false);
   const [outputText, setOutput] = useState('');
-  const genAI = new GoogleGenerativeAI('AIzaSyCroktHX2avCET9Ug_X1M11r52-EVsnsJM');
+  const genAI = new GoogleGenerativeAI('<ENTER YOUR API KEY HERE>');
   const model = genAI.getGenerativeModel({ model: "gemini-pro" });
   const wine_phrases = ["This wine seems to have a purity of fruit in this wine is remarkable.", "This wine exemplifies elegance and finesse", "This wine looks to have a really good quality. Each sip of this wine reveals layers of complexity with intricate flavors.", "Pleasant and easy drinking with straightforward flavors accurately describes this wine.", "This wine seems to be decent enough to drink.", "Balanced and Approachabkle. Perfect for a relaxing drinking.", "This wine lacks depth and complexity with one dimensional flavours.", "The acidity in this wine seems to be harsh and unbalanced", "There are off-putting aromas of vinegar and mustinness in this wine.", "The wine seems to be unpleasant to drink and lacking in refinement."]
   const msg = new SpeechSynthesisUtterance();
