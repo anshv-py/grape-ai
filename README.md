@@ -27,7 +27,7 @@ Elevate your wine game with our voice assistant sommelier—sip, savor, and disc
 To install the project on your local system, run the following on your vscode terminal.
  - `git clone https://github.com/anshv-py/grape-ai.git`
  - `cd grape-ai`
- - Open the `.env` file and enter your API key.
+ - Open the `MicrophoneInput.js` file at `src/components/` and enter your API key at the specified location.
  - `npm install --force`
  - `$env:NODE_OPTIONS = "--openssl-legacy-provider"`
  - `npm start`
